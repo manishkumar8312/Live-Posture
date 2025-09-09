@@ -46,4 +46,4 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions, feel free to reach out to [your email] or open an issue on GitHub.
+For any questions, feel free to reach out to [codeisfunforme@gmail.com] or open an issue on GitHub.
