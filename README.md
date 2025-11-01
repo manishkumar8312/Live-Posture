@@ -1,6 +1,5 @@
 # PoseNet
 
-
 ## Overview
 PoseNet is a real-time human pose estimation system that detects key points on a person’s body using deep learning techniques. This project is designed for applications such as motion tracking, fitness analysis, augmented reality, and more.
 
